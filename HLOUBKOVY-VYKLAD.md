@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a čtyři paragrafové kapitoly), **43 samostatně nadepsaných ustanovení** (§ 1 až § 39 včetně § 13a, 13b, 13c a 26a), **38 modalitních příkladů**, **9 zásad** a **0 místních karet rozhodnutí**. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a čtyři paragrafové kapitoly), **43 samostatně nadepsaných ustanovení** (§ 1 až § 39 včetně § 13a, 13b, 13c a 26a), **38 modalitních příkladů**, **9 zásad** a **2 místní karty rozhodnutí** ([NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md) k § 2, [NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md) k § 18). Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -238,21 +238,26 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář dosud neobsahuje složku `judikatura/`, tedy **0 karet rozhodnutí**; soubor zásad odkazuje na **0 místních karet s použitelnou citací**. Kapitoly neobsahují žádnou citaci ani spisovou značku rozhodnutí a samy to výslovně uvádějí:
-- [00-uvod.md](00-uvod.md): „Kapitoly komentáře neodkazují na konkrétní soudní rozhodnutí a neuvádějí žádné spisové značky“
+Místní složka `judikatura/` obsahuje **2 karty rozhodnutí**; soubor zásad je zmiňuje jen v úvodní poznámce a žádnou zásadu na nich nestaví. Kapitoly obsahují **2 citace rozhodnutí** (u § 2 v kapitole 1 a u § 18 v kapitole 2). Nosné závěry podle právních vět karet:
+- [NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md), [§ 2 — Vymezení pojmů](01-uvodni-revir-vykon-prava.md): „Jestliže věci tvořící podle § 2 písm. c) zákona č. 99/2004 Sb. rybník jsou v individuálním vlastnictví více osob, je na jejich vzájemné vztahy třeba aplikovat přiměřeně ustanovení občanského zákoníku o podílovém spoluvlastnictví“
+- [NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md), [§ 18](02-hospodareni-lov-straz.md): „Škodou na věcech vzniklou v souvislosti s výkonem činnosti rybářské stráže podle § 18 odst. 4 zákona č. 99/2004 Sb., o rybářství, je i škoda vzniklá usmrcením nebo poraněním psa, který člena rybářské stráže při výkonu činnosti doprovázel“
+
+Hranice použitelnosti podle kapitol:
+- [§ 2 — Vymezení pojmů](01-uvodni-revir-vykon-prava.md): „Rozhodnutí je z roku 2008, kdy platil občanský zákoník č. 40/1964 Sb.; při použití dnes je třeba závěr převést na úpravu spoluvlastnictví v občanském zákoníku č. 89/2012 Sb.“
+- [§ 18](02-hospodareni-lov-straz.md): „Zda závěr platí i pro jiná zvířata nebo vybavení, které stráž k výkonu činnosti nepotřebuje, karta neřeší; jde o výkladovou otázku.“
 - [00-uvod.md](00-uvod.md): „Komentář neobsahuje vymyšlené ani neověřené odkazy na judikaturu“
 
-Místní korpus proto neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se nesmí domýšlet. Složka `judikatura/` se má doplnit strojově později — do té doby jde o **výslovnou mezeru**, nikoli o doklad, že rozhodovací praxe k ZRyb neexistuje. Zásady v [ZASADY.md](ZASADY.md) jsou dovozeny z textu zákona, systematiky a výkladu kapitol, nikoli z judikatorních tezí.
+U zbývajících 41 ustanovení místní korpus kartu ani citaci rozhodnutí neposkytuje; judikatorní závěr se u nich nesmí domýšlet — jde o **výslovnou mezeru**, nikoli o doklad, že rozhodovací praxe k ZRyb neexistuje. Zásady v [ZASADY.md](ZASADY.md) jsou dovozeny z textu zákona, systematiky a výkladu kapitol, nikoli z judikatorních tezí.
 
-Otázky, u nichž by doplněná judikatura měla prioritu (kapitoly je označují jako otevřené): soudní přezkum výsledku výběrového řízení (§ 9), soudní ochrana při ustanovování rybářské stráže (§ 14 odst. 8, § 33), obsah bezúhonnosti (§ 8, § 14), kvalifikace přisvojení podměrečné ryby a vztah písm. c) a e) v § 30 odst. 1, hranice přestupku a pytláctví, rozsah oprávnění rybářské stráže mimo revír.
+Otázky, u nichž by další doplněná judikatura měla prioritu (kapitoly je označují jako otevřené): soudní přezkum výsledku výběrového řízení (§ 9), soudní ochrana při ustanovování rybářské stráže (§ 14 odst. 8, § 33), obsah bezúhonnosti (§ 8, § 14), kvalifikace přisvojení podměrečné ryby a vztah písm. c) a e) v § 30 odst. 1, hranice přestupku a pytláctví, rozsah oprávnění rybářské stráže mimo revír.
 
 **Hloubkový test.**
-- U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U karet NS 22 Cdo 1121/2008 a NS 25 Cdo 4314/2018 i u každého dalšího doplněného rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění ZRyb (účinnost novel), stejný právní problém a zda závěr nebyl později odlišen nebo překonán.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech.
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [úvod komentáře](00-uvod.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md)
+**Místní opora.** [NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md); [NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md); [rejstřík komentáře](INDEX.md); [úvod komentáře](00-uvod.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -272,7 +277,7 @@ Další výslovně otevřené hraniční případy: rozdílná formulace § 19 p
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu.
-- U každé varianty uveďte textový, systematický, historický, účelový a případný budoucí judikatorní argument.
+- U každé varianty uveďte textový, systematický, historický, účelový a místní judikatorní argument (místní karty jsou zatím jen u § 2 a § 18).
 - Porovnejte praktické následky variant a vysvětlete, který argument převáží a za jakých předpokladů; u přestupků respektujte zákaz analogie v neprospěch obviněného.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -331,7 +336,7 @@ Vzorový průchod místní kazuistikou (§ 30): podměrečná štika ve vezírku
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **5 kapitolami** (úvod a čtyři paragrafové kapitoly). Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- složka `judikatura/` dosud neexistuje a soubor zásad neposkytuje odkaz na místní kartu s citovatelnou tezí; doplní se strojově později,
+- složka `judikatura/` obsahuje jen 2 karty ([NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md) k § 2, [NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md) k § 18); u zbývajících 41 ustanovení místní judikatura chybí a soubor zásad na kartách žádnou zásadu nestaví,
 - místní důvodová zpráva k zákonu č. 99/2004 Sb. ani k jeho novelám není součástí repozitáře,
 - kapitoly nepopisují jednotlivé novely mezi 1. dubnem 2004 a 1. červencem 2025,
 - prováděcí vyhláška č. 197/2004 Sb. je zohledněna jen v rozsahu nutném pro výklad zákona,
@@ -353,15 +358,15 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod komentáře](00-uvod.md) | ano | nenalezeno | ano | nenalezeno | ano | ano | nenalezeno | ano |
-| [Kapitola 1 (§ 1–10)](01-uvodni-revir-vykon-prava.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 2 (§ 11–18)](02-hospodareni-lov-straz.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Úvod komentáře](00-uvod.md) | ano | nenalezeno | ano | ano (odkazy na karty k § 2 a § 18) | ano | ano | nenalezeno | ano |
+| [Kapitola 1 (§ 1–10)](01-uvodni-revir-vykon-prava.md) | ano | ano | ano | ano (§ 2) | ano | ano | ano | ano |
+| [Kapitola 2 (§ 11–18)](02-hospodareni-lov-straz.md) | ano | ano | ano | ano (§ 18) | ano | ano | ano | ano |
 | [Kapitola 3 (§ 19–29)](03-organy-morske-zdroje.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 4 (§ 30–39)](04-prestupky-zaverecna-novely.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** citace ani karta rozhodnutí nebyla nalezena v žádné z 5 kapitol; po strojovém doplnění složky `judikatura/` je třeba přezkoumat zejména § 9, § 14, § 16 a § 30.
+- **Judikatura:** karta rozhodnutí je citována v kapitole 1 ([NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md) u § 2) a v kapitole 2 ([NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md) u § 18), úvod na obě odkazuje; v kapitolách 3 a 4 nebyla nalezena. Při doplnění dalších karet je třeba přezkoumat zejména § 9, § 14, § 16 a § 30.
 - **Důkazy:** textový signál nebyl nalezen v 1 z 5 kapitol: [Úvod komentáře](00-uvod.md).
 - **Aplikace:** úvod neobsahuje vlastní kazuistiku; aplikační vrstva je soustředěna v kapitolách 01 až 04.
 - **Čas:** novelizační historie mezi lety 2004 a 2025 není v kapitolách rozepsána.
@@ -397,7 +402,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; dokud místní karty chybějí, judikaturu necitujte.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; u ustanovení bez místní karty judikaturu necitujte.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 
 ## Kontrola před publikací

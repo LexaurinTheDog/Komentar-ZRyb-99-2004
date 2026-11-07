@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství). Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**; jsou-li dostupné, také z místní důvodové zprávy a místních karet rozhodnutí (v tomto repozitáři zatím nejsou). Nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství). Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**; dále z místních karet rozhodnutí ve složce `judikatura/` (2 karty: [NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md) k § 2 a [NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md) k § 18); místní důvodová zpráva v repozitáři není. Nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -96,7 +96,7 @@ Normativní text a výklad v místní mapě upozorňují například na:
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz, kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Právní argument nenahrazuje skutkové zjištění a zákonnou domněnku nelze dovodit jen z obtížného dokazování.
 
-**Místní opora.** [§ 3 a § 8](01-uvodni-revir-vykon-prava.md); [§ 11 a § 13c](02-hospodareni-lov-straz.md); [§ 26a a § 29](03-organy-morske-zdroje.md); [§ 30](04-prestupky-zaverecna-novely.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md). Místní karty rozhodnutí zatím chybějí (složka `judikatura/` se doplní strojově později).
+**Místní opora.** [§ 3 a § 8](01-uvodni-revir-vykon-prava.md); [§ 11 a § 13c](02-hospodareni-lov-straz.md); [§ 26a a § 29](03-organy-morske-zdroje.md); [§ 30](04-prestupky-zaverecna-novely.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md). K důkazní otázce místní karta rozhodnutí není; obě místní karty ([NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md) k § 2, [NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md) k § 18) se týkají hmotněprávních závěrů.
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -136,14 +136,16 @@ Typické střety, které místní kapitoly samy otevírají: zpřístupnění re
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář dosud neobsahuje složku `judikatura/`, tedy **0** karet rozhodnutí; v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Kapitoly to výslovně uvádějí:
-- [00-uvod.md](00-uvod.md): „Kapitoly komentáře neodkazují na konkrétní soudní rozhodnutí a neuvádějí žádné spisové značky“
+Místní složka `judikatura/` obsahuje **2** karty rozhodnutí; soubor zásad je zmiňuje jen v úvodní poznámce a žádnou zásadu na nich nestaví. Nosné závěry podle právních vět karet:
+- [NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md), citovaná u [§ 2 — Vymezení pojmů](01-uvodni-revir-vykon-prava.md): „Jestliže věci tvořící podle § 2 písm. c) zákona č. 99/2004 Sb. rybník jsou v individuálním vlastnictví více osob, je na jejich vzájemné vztahy třeba aplikovat přiměřeně ustanovení občanského zákoníku o podílovém spoluvlastnictví“
+- [NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md), citovaná u [§ 18](02-hospodareni-lov-straz.md): „Škodou na věcech vzniklou v souvislosti s výkonem činnosti rybářské stráže podle § 18 odst. 4 zákona č. 99/2004 Sb., o rybářství, je i škoda vzniklá usmrcením nebo poraněním psa, který člena rybářské stráže při výkonu činnosti doprovázel“
 
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Jde o výslovnou mezeru — složka `judikatura/` se doplní strojově později.
+Hranice použitelnosti vymezují samy kapitoly: u § 2 „Rozhodnutí je z roku 2008, kdy platil občanský zákoník č. 40/1964 Sb.; při použití dnes je třeba závěr převést na úpravu spoluvlastnictví v občanském zákoníku č. 89/2012 Sb.“; u § 18 „Zda závěr platí i pro jiná zvířata nebo vybavení, které stráž k výkonu činnosti nepotřebuje, karta neřeší; jde o výkladovou otázku.“
+U zbývajících 41 ustanovení místní korpus citovatelnou judikatorní tezi neposkytuje; judikatorní odpověď se u nich nesmí domýšlet a jde o výslovnou mezeru.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do té doby chybějící místní judikaturu označujte jako mezeru, nikoli jako neexistenci rozhodovací praxe.
+**Jak ji řešit.** U obou karet i u každého dalšího doplněného rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; u ustanovení bez místní karty označujte chybějící judikaturu jako mezeru, nikoli jako neexistenci rozhodovací praxe.
 
-**Místní opora.** [úvodní místní výklad](00-uvod.md); [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md); [NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md); [úvodní místní výklad](00-uvod.md); [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -194,9 +196,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-uvodni-revir-vykon-prava](01-uvo
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **5** kapitol (úvod a čtyři paragrafové kapitoly) a **0** karet rozhodnutí, doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **5** kapitol (úvod a čtyři paragrafové kapitoly) a **2** karty rozhodnutí ([NS 22 Cdo 1121/2008](judikatura/NS-22-Cdo-1121-2008.md) k § 2, [NS 25 Cdo 4314/2018](judikatura/NS-25-Cdo-4314-2018.md) k § 18), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi; složka `judikatura/` se doplní strojově později,
+- místní judikatura je zastoupena jen 2 kartami (§ 2 a § 18); u zbývajících 41 ustanovení chybí,
 - místní důvodová zpráva není součástí repozitáře,
 - novelizační historie ZRyb mezi lety 2004 a 2025 není v kapitolách rozepsána,
 - prováděcí vyhláška č. 197/2004 Sb. je zohledněna jen v rozsahu nutném pro výklad zákona a její znění je třeba ověřovat ke dni skutku,
