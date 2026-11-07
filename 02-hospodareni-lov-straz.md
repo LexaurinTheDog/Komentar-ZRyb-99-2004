@@ -865,6 +865,11 @@ Stráž musí oznámit obecnímu úřadu obce s rozšířenou působností všec
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 4314/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A46D384BC55399EBC125847E00181E00?openDocument) — 26. 6. 2019, kat. A
+  > „Škodou na věcech vzniklou v souvislosti s výkonem činnosti rybářské stráže podle § 18 odst. 4 zákona č. 99/2004 Sb., o rybářství, je i škoda vzniklá usmrcením nebo poraněním psa, který člena rybářské stráže při výkonu činnosti doprovázel"
+
 #### Škoda způsobená rybářskou stráží (odst. 1 a 2)
 
 Odpovědnost za škodu způsobenou stráží v souvislosti s výkonem činnosti podle ZRyb se řídí zákonem č. 82/1998 Sb. (pozn. č. 17). Rybářská stráž jako fyzická osoba vykonávající státní správu svěřenou zákonem je úřední osobou ve smyslu § 3 odst. 1 písm. b) tohoto zákona a za škodu odpovídá **stát**; odpovědnosti se nelze zprostit (§ 2 zákona č. 82/1998 Sb.). Odst. 2 stanoví zvláštní vylučující důvod: náhrada se neposkytne osobě, která svým protiprávním jednáním vyvolala **oprávněný a přiměřený zákrok** stráže, pokud stráž nepřekročila svá oprávnění. Překročení taxativních oprávnění (§ 16) nebo nepřiměřenost zákroku vylučující důvod ruší.

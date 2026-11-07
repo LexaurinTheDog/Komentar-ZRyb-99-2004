@@ -125,6 +125,11 @@ Odst. 2 zachovává ochranu ryb a vodních organizmů podle zvláštních předp
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1121/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAC7BF2A58321002C1257A4E006724B1?openDocument) — 16. 7. 2008, kat. A
+  > „Jestliže věci tvořící podle § 2 písm. c) zákona č. 99/2004 Sb. rybník jsou v individuálním vlastnictví více osob, je na jejich vzájemné vztahy třeba aplikovat přiměřeně ustanovení občanského zákoníku o podílovém spoluvlastnictví"
+
 #### Systém pojmů — dva režimy rybářství (písm. a), b), f), j))
 
 „Rybářství" (písm. a)) je zastřešující pojem pro chov, zušlechťování, ochranu a lov ryb a vodních organizmů, a to ve dvou režimech. **Rybníkářství** (písm. b)) je chov a lov v rybníce nebo ve zvláštním rybochovném zařízení za účelem produkce ryb, rybího masa, vodních organizmů nebo násady; právním titulem je vlastnictví nebo nájem (§ 3 odst. 1). **Výkon rybářského práva** (písm. f)) je činnost v rybářském revíru povolená rybářským orgánem, zahrnující plánovitý chov, ochranu, lov a **přisvojování si** ryb a užívání pobřežních pozemků v nezbytném rozsahu. Rozdíl se promítá i do definice lovu (písm. j)): v rybníkářství je lovem činnost směřující k ulovení, při výkonu rybářského práva ulovení **a přisvojení si** ryby — v rybníce ryby nejsou bez pána (§ 1049 OZ), kdežto ve volné vodě se rybí obsádka stává vlastnictvím až přisvojením oprávněnou osobou.
